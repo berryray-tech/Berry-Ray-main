@@ -163,7 +163,7 @@ export default function Contact() {
 
             {/* Gmail */}
             <a
-              href="mailto:berryraytechnologies@gmail.com"
+              href="mailto:berraynia@gmail.com"
               className="hover:text-red-400 transition"
             >
               <FaEnvelope />
@@ -171,7 +171,7 @@ export default function Contact() {
 
             {/* TikTok */}
             <a
-              href="https://www.tiktok.com/@Berryraytech"
+              href="https://www.tiktok.com/@Berryraytechnologies"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-pink-400 transition"

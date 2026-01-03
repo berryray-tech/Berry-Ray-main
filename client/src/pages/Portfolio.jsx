@@ -256,11 +256,11 @@ export default function Portfolio() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div className="flex items-center">
                 <span className="text-blue-400 mr-3">📧</span>
-                <span className="text-slate-300">your.email@example.com</span>
+                <span className="text-slate-300">berraynia@gmail.com</span>
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-3">📱</span>
-                <span className="text-slate-300">+234 XXX XXX XXXX</span>
+                <span className="text-slate-300">+234 907 912 1858</span>
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-3">📍</span>
