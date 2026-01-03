@@ -268,7 +268,9 @@ export default function Portfolio() {
               </div>
               <div className="flex items-center">
                 <span className="text-blue-400 mr-3">🔗</span>
-                <a href="#" className="text-slate-300 hover:text-blue-400">LinkedIn Profile</a>
+                <a href="www.linkedin.com/in/chinonso-osuji-224a54321
+
+" className="text-slate-300 hover:text-blue-400">LinkedIn Profile</a>
               </div>
             </div>
           </div>
